@@ -4,3 +4,4 @@ You can login many accounts in starbreak web browser, i made this for bots accou
 - Other lines: email of each account to complete login.
 
 Important: This macro only works with accounts already created.
+the document .txt and the macro .ahk must be in the same location
